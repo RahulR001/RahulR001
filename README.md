@@ -21,4 +21,4 @@ I am a web developer with a vast array of knowledge in many different front end 
 
 ### 📊 Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulR001&show_icons=true&theme=gruvbox)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulR001&show_icons=true&theme=dark)
