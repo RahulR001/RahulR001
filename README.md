@@ -21,5 +21,5 @@ I am a web developer with a vast array of knowledge in many different front end 
 
 ### 📊 Stats
 
-| <a href="https://github.com/RahulR001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulR001&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/RahulR001/github-readme-stats"><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulR001&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)" /></a> |
+| <a href="https://github.com/RahulR001/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulR001&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/RahulR001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulR001&layout=compact&theme=buefy&hide_border=true " /></a> |
 | ------------- | ------------- |
