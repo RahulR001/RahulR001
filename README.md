@@ -26,5 +26,5 @@ I am a Full Stack Developer with a vast array of knowledge in many different fro
 
 ### 📊 Stats
 
-| <a href="https://github.com/RahulR001/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulR001&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/RahulR001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulR001&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulr001&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulr001&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
