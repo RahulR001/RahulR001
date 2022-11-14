@@ -27,5 +27,5 @@ I am a Full Stack Developer with a vast array of knowledge in many different fro
 ### 📊 Stats
 [![Rahul R's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulr001&theme=github_dark)](https://github.com//github-readme-stats)
 
-| <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulr001&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulr001&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulr001&show_icons=true&theme=github_dark&hide_border=true" alt="Rahul's github stats" /></a> | <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulr001&layout=compact&theme=github_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
