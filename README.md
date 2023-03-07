@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rahul R
 
-I am a Full Stack Developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best Full Stack Developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development. And I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.
+A versatile, hardworking individual, driven to meet or exceed a company's expectations to deliver high-quality software products. Experienced in Python, Django, RESTful API's, HTML5, CSS3, JavaScript, React JS, MySQL, PostgreSQL and AWS. A demonstrated history of delivering complex integrations between disparate systems in an agile environment. Comfortable liaising with customers from workgroup to international enterprise, developing relationships to gather accurate requirements and actualize an end product that exceeds expectations. An effective listener who can communicate technical information in an easily understandable way. Offers a strong background in creative problem-solving and a proven ability to multi-task and prioritize in fast-paced, stressful environments.
 
 ---
 
